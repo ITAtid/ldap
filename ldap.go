@@ -9,7 +9,7 @@ import (
 	"fmt"
 	"io/ioutil"
 
-	"github.com/SpruceHealth/asn1-ber"
+	"github.com/ITAtid/asn1-ber"
 )
 
 // LDAP Application Codes
