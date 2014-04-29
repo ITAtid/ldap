@@ -33,7 +33,7 @@ import (
 	"errors"
 	"log"
 
-	"github.com/SpruceHealth/asn1-ber"
+	"github.com/ITAtid/asn1-ber"
 )
 
 const (
